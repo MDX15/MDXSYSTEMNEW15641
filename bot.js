@@ -2841,7 +2841,7 @@ message.channel.stopTyping()
      let embed = new Discord.RichEmbed()
   .setAuthor(message.author.username)
   .setColor("#9B59B6")
-  .addField(" ** :gear: Server Support :gear: **" , "  **https://discord.gg/TZ3dcyC**")
+  .addField(" ** :gear: Server Support :gear: **" , "  **https://discord.gg/asJPw5v**")
      
      
   message.channel.sendEmbed(embed);
